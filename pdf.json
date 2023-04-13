@@ -1,0 +1,42 @@
+{
+  "peliyagoda": {
+    "minX": "111.98",
+    "maxX": "141.86"
+  },
+  "kandy": {
+    "minX": "160.82",
+    "maxX": "187.34"
+  },
+  "dambulla": {
+    "minX": "207.02",
+    "maxX": "234.26"
+  },
+  "meegoda": {
+    "minX": "254.57",
+    "maxX": "282.41"
+  },
+  "norochhole": {
+    "minX": "303.41",
+    "maxX": "327.77"
+  },
+  "thambuthegama": {
+    "minX": "348.77",
+    "maxX": "378.07"
+  },
+  "keppetipola": {
+    "minX": "399.07",
+    "maxX": "424.87"
+  },
+  "nuwaraeliya": {
+    "minX": "443.11",
+    "maxX": "471.67"
+  },
+  "bandarawela": {
+    "minX": "491.38",
+    "maxX": "520.42"
+  },
+  "veyangoda": {
+    "minX": "541.42",
+    "maxX": "571.3"
+  }
+}
